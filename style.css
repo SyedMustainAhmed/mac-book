@@ -1,0 +1,11 @@
+p#result {
+    display: none;
+  }
+  p#book-found {
+    display: none;
+  }
+  
+  /*  spinner css  */
+  #spinner {
+    display: none;
+  }
